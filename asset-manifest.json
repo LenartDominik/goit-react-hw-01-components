@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/LenartDominik/goit-react-hw-01-components/static/css/main.1f890f91.css",
-    "main.js": "/LenartDominik/goit-react-hw-01-components/static/js/main.b5b195b7.js",
+    "main.css": "/LenartDominik/goit-react-hw-01-components/static/css/main.6feaa1b2.css",
+    "main.js": "/LenartDominik/goit-react-hw-01-components/static/js/main.f38b6793.js",
     "index.html": "/LenartDominik/goit-react-hw-01-components/index.html",
-    "main.1f890f91.css.map": "/LenartDominik/goit-react-hw-01-components/static/css/main.1f890f91.css.map",
-    "main.b5b195b7.js.map": "/LenartDominik/goit-react-hw-01-components/static/js/main.b5b195b7.js.map"
+    "main.6feaa1b2.css.map": "/LenartDominik/goit-react-hw-01-components/static/css/main.6feaa1b2.css.map",
+    "main.f38b6793.js.map": "/LenartDominik/goit-react-hw-01-components/static/js/main.f38b6793.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f890f91.css",
-    "static/js/main.b5b195b7.js"
+    "static/css/main.6feaa1b2.css",
+    "static/js/main.f38b6793.js"
   ]
 }
