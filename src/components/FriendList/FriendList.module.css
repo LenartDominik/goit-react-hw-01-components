@@ -13,8 +13,6 @@
     height: auto;
     border: solid 1px black;
     border-radius: 10px;
-    align-items: center;
-    justify-content: left;
 }
 
 .status {
